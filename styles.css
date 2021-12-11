@@ -1,0 +1,67 @@
+.App {
+    font-family: fantasy;
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .flex-container {
+    display: flex;
+    height: 460px;
+    width: 650px;
+    background-color: rgb(16, 16, 16);
+    border-radius: 10px;
+  }
+  
+  .flex-right {
+    width: 45%;
+    height: 100%;
+  }
+  
+  .flex-left {
+    width: 55%;
+    height: 100%;
+    margin-top: 30px;
+  }
+  
+  .form-item {
+    margin-top: 10px;
+    width: 70%;
+    height: 28px;
+  }
+  
+  .light {
+    background: whitesmoke;
+    color: rgb(9, 9, 9);
+  }
+  
+  .solid {
+    background: rgb(9, 9, 9);
+    color: whitesmoke;
+  }
+  
+  button {
+    padding: 7px 20px;
+    margin: 10px;
+    font-size: 15px;
+    border-radius: 7px;
+  }
+  
+  #terms {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  label,
+  .registration {
+    font-size: small;
+  }
+  
+  .header {
+    font-size: 28px;
+  }
+  
+  .icon {
+    display: inline-block;
+    margin: 10px;
+  }
+  
